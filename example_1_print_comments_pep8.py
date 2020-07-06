@@ -2,7 +2,7 @@
 #  examples for gavin
 # print , comments and pep8
 
-# python is case sensitive
+# python is CASE sensitive
 
 # this is a commit its standard practice to put a spaces after the hash sigh
 
@@ -17,7 +17,7 @@
 print('hello world')  # its standard practice to put two spaces before the hash sigh
 # you can also add a comment after a line of code
 
-Print('hello world')  # will throw a error
+Print('hello world')  # will throw a error whats wrong?
 
 print('hello world')  # correct by pep8 standers
 
