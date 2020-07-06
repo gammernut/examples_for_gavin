@@ -10,8 +10,6 @@ print(full_name.title())  # makes title case ie. first letter of each word is up
 print("hello, {} how are you?".format(full_name.title()))  # this is a formatted string using .format()
 # the {} are place holders whatever is in the .format() function is put printed on output
 
-#
-
 
 full_name = input('enter your full name\n')  # \n is a line break breaks of to a new line in the output
 print(full_name.lower())  # makes lower case
