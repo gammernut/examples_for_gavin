@@ -2,6 +2,18 @@
 # examples for gavin
 # functions
 
+
+# A function is a block of code which only runs when it is called
+# You can pass data known as parameters or Arguments (args for short) into a function.
+# A function can return data as a result.
+# The terms parameter and argument can be used for the same thing: information that are passed into a function.
+# A parameter is the variable listed inside the parentheses in the function definition.
+# An argument is the value that is sent to the function when it is called.
+
+# there are built in functions like int() str() print()
+# and functions from things you imported or your own function you made with def
+
+
 # lets say you want to print hello world five times you could do this
 
 print('hello world')
@@ -33,4 +45,5 @@ hello_function()
 hello_function()
 
 # now if you want hello world to say something else you only need to change one line the print line in the function
+
 

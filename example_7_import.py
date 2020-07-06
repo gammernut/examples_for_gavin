@@ -20,7 +20,10 @@ import random  # imports the random module it is a built in module meaning it pa
 # some IDE's (Integrated development environment) (pycharm, vscode)
 # come with a package manager GUI to install and update packages
 
-file_to_import.print_header('importing')
+file_to_import.print_header('importing')  # call the module with its name then to call a function from that module
+# type .function_name followed by () like a normal function
+# ie int() str() print_header() randint()
+
 
 num_1 = random.randint(0, 100)  # sets num_1 to a random number between 0 and 100
 print(num_1)  # prints the random number
