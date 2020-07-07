@@ -30,7 +30,8 @@ print(spam+eggs)
 # when a variable is given a new value its old one is forgotten
 
 
-
+ddddddddfuv = 3
+ print(ddddddddfuv)
 
 
 
